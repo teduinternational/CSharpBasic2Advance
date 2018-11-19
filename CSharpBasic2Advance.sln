@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerTypes", "IntergerTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealFloatingPoint", "RealFloatingPoint\RealFloatingPoint.csproj", "{C42E917D-D795-4E6B-974F-BC80DD0C40C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanType", "BooleanType\BooleanType.csproj", "{14572C94-12A4-487C-85DF-EBF6420F4B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharType", "CharType\CharType.csproj", "{222FC19B-3444-4397-A83F-871BEFA44FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C42E917D-D795-4E6B-974F-BC80DD0C40C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C42E917D-D795-4E6B-974F-BC80DD0C40C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C42E917D-D795-4E6B-974F-BC80DD0C40C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14572C94-12A4-487C-85DF-EBF6420F4B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14572C94-12A4-487C-85DF-EBF6420F4B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14572C94-12A4-487C-85DF-EBF6420F4B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14572C94-12A4-487C-85DF-EBF6420F4B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222FC19B-3444-4397-A83F-871BEFA44FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222FC19B-3444-4397-A83F-871BEFA44FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222FC19B-3444-4397-A83F-871BEFA44FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222FC19B-3444-4397-A83F-871BEFA44FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

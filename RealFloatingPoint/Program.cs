@@ -21,9 +21,12 @@ namespace RealFloatingPoint
 
             float floatPI = 3.141592653589793238f;
             double doublePI = 3.141592653589793238;
+
+            decimal decimalPI = 3.14159265358979323846m;
             // Print the results on the console 
             Console.WriteLine("Float PI is: " + floatPI);
             Console.WriteLine("Double PI is: " + doublePI);
+            Console.WriteLine("Decimal PI is: " + decimalPI);
 
             Console.Read();
         }
